@@ -15,7 +15,4 @@ Ingeniero en sistema y computación.<br>Emocionado en colaborar en proyectos emp
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mauriorellana&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mauriorellana&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
